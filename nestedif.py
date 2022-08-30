@@ -1,0 +1,33 @@
+#nested if- if statement conatain another if statement
+********************
+1.
+if(condtition):
+    if(condition):
+        statements
+    else:
+        statements
+else:
+    statements
+*********************
+2.
+if(condition):
+    statements
+else:
+    if(conditions):
+        statements
+    else:
+        statements
+*************************
+3.
+if(condtion):
+    statements
+    if(condition):
+        statements
+    else:
+        statements
+else(condition):
+    statements
+    if(condition):
+        statements
+    else(condition):
+        statements
